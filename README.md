@@ -1,5 +1,5 @@
 # Data-Science-Journey
-Libraries to cover
+Libraries covered so far..
 1. Numpy
 2. Pandas
 
