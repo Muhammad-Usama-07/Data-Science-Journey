@@ -3,6 +3,11 @@ Libraries to cover
 1. Numpy
 2. Pandas
 
+## Numpy Topics
+I. What is Numpy?
+II. What are the benefits of Numpy?
+III.
+
 ## Pandas Topics
 1. Create one item Series
 2. Create a series of multiple items using a list
