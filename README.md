@@ -24,6 +24,7 @@ Libraries covered so far..
 9. Converting /Cast Data type of ndarray
 10. Casting floating point into integer data type
 ## Pandas Topics
+### *Working with Series in Pandas
 1. Create one item Series
 2. Create a series of multiple items using a list
 3. getting the values in the Series
@@ -34,3 +35,18 @@ Libraries covered so far..
 8. Creating Series from dict
 9. Creating Series from numpy array
 10. Checking Size, shape, uniqueness, and counts of values
+11. Peeking at data with heads, tails, and take
+12. Lable lookup(get multiple item from Series)
+13. Position Bases lookup(get multiple item from Series)
+14. Series with an integer index, but not starting with 0
+15. label-based lookup versus position-based lookup
+16. Using loc and iloc
+17. Alignment via index labels
+18. Concatinate Series(Using Dictionary and extra item from another Series)
+19. Concatinating Series(if the series has duplicate index)
+20. Handling(the case of Not-A-Number) with Series
+21. Series handle NaN values like NumPy
+22. ***Working Boolean Selection
+23. select rows where values are > 5
+24. A little shorter version to Select
+25. Select specific range of rows from series
