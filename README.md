@@ -50,3 +50,35 @@ Libraries covered so far..
 23. select rows where values are > 5
 24. A little shorter version to Select
 25. Select specific range of rows from series
+26. Getting sum of values by giving boolean indexing
+27. Get all item those satisfy the condition
+28. Get any of those item that satisfy the condition
+29. count values that satisfy the condition
+30. Reindexing a Series
+31. Changing indexes of a series
+32. Concatinating Series
+33. Reset index(duplication of index may be remove)
+34. Using reindex() method to reindex
+35. Concatinating string and integar labels
+36. fill with Some Value instead of NaN
+37. ForwardFill BackWordFill and nearest
+38. Slicing a Series
+39. first five by slicing, same as .head(5)
+40. Missing Data in Series
+41. Check if series has null values
+42. Check if series has not null values(return true)
+43. The pandas DataFrame Object
+44. Creating a DataFrame from scratch
+45. Create a DataFrame for a list of Series objects
+46. Create a DataFrame with two Series objects in dictionary
+47. Create a DataFrame with named columns and rows
+48. Demonstrate alignment during creation
+49. Creating data frames(using dictionary)
+50. Accessing Each Column
+51. Adding new column to old dataframe
+52. Assigning value to new column
+53. Assigning value to dataframe using Series
+54. Adding new column with boolean value
+55. Deleting Column
+56. Adding data in the form of nested dictionary
+57. Making Row as column and column as row (Taking Transpose)
