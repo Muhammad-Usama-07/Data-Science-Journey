@@ -50,15 +50,15 @@ Libraries covered so far..
 23. select rows where values are > 5
 24. A little shorter version to Select
 25. Select specific range of rows from series
-26. Getting sum of values by giving boolean indexing
-27. Get all item those satisfy the condition
-28. Get any of those item that satisfy the condition
-29. count values that satisfy the condition
-30. Reindexing a Series
-31. Changing indexes of a series
-32. Concatinating Series
-33. Reset index(duplication of index may be remove)
-34. Using reindex() method to reindex
+##### [26. Getting sum of values by giving boolean indexing](https://github.com/Muhammad-Usama-07/Data-Science-Journey/blob/d49ef1e6ab433abb98d97af896634a24b6c637a7/.ipynb_checkpoints/PandasWork-checkpoint.ipynb)
+##### [27. Get all item those satisfy the condition](https://github.com/Muhammad-Usama-07/Data-Science-Journey/blob/320486493e6081a801bfe4a3b1e6b4ced33b8f4d/.ipynb_checkpoints/PandasWork-checkpoint.ipynb)
+##### [28. Get any of those item that satisfy the condition](https://github.com/Muhammad-Usama-07/Data-Science-Journey/blob/0c33ad0ba64bc3c34db4c0198d7de101bf039a70/.ipynb_checkpoints/PandasWork-checkpoint.ipynb)
+##### [29. count values that satisfy the condition](https://github.com/Muhammad-Usama-07/Data-Science-Journey/blob/81ea218a457c861c99a09a83d803c79ce20e3922/.ipynb_checkpoints/PandasWork-checkpoint.ipynb)
+##### [30. Reindexing a Series](https://github.com/Muhammad-Usama-07/Data-Science-Journey/blob/14bec33bccaa78a0914af3895775ec4f1cd34c9e/.ipynb_checkpoints/PandasWork-checkpoint.ipynb)
+##### [31. Changing indexes of a series](https://github.com/Muhammad-Usama-07/Data-Science-Journey/blob/e76c248b57581cfc15545ab9b0f5b65633a4be42/.ipynb_checkpoints/PandasWork-checkpoint.ipynb)
+##### [32. Concatinating Series](https://github.com/Muhammad-Usama-07/Data-Science-Journey/blob/ff2143d05b56e1a96819fb1f514d98ad9db85bf8/.ipynb_checkpoints/PandasWork-checkpoint.ipynb)
+##### [33. Reset index(duplication of index may be remove)](https://github.com/Muhammad-Usama-07/Data-Science-Journey/blob/031a70845a4758464e3478ca2717d856e38646d3/.ipynb_checkpoints/PandasWork-checkpoint.ipynb)
+##### [34. Using reindex() method to reindex](https://github.com/Muhammad-Usama-07/Data-Science-Journey/blob/7429dd763205a66b47bdf00497fb7411b503901f/.ipynb_checkpoints/PandasWork-checkpoint.ipynb)
 ##### [35. Concatinating string and integar labels](https://github.com/Muhammad-Usama-07/Data-Science-Journey/blob/f735e5bbf6cdac7087ff4892cd63651f5f493f69/.ipynb_checkpoints/PandasWork-checkpoint.ipynb)
 ##### [36. fill with Some Value instead of NaN](https://github.com/Muhammad-Usama-07/Data-Science-Journey/blob/e2a4bef5767410d0248514ce6e7fb1cc2ae4f2aa/.ipynb_checkpoints/PandasWork-checkpoint.ipynb)
 ##### [37. ForwardFill BackWordFill and nearest](https://github.com/Muhammad-Usama-07/Data-Science-Journey/blob/642b8f2e9f9532f56eb5725fea6d0461c6fed39f/.ipynb_checkpoints/PandasWork-checkpoint.ipynb)
