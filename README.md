@@ -75,7 +75,7 @@ Libraries covered so far..
 48. Demonstrate alignment during creation
 49. Creating data frames(using dictionary)
 50. Accessing Each Column
-51. Adding new column to old dataframe
+##### [51. Adding new column to old dataframe](https://github.com/Muhammad-Usama-07/Data-Science-Journey/blob/acb367e1116d576050fa33a3773b35e27427f80c/.ipynb_checkpoints/PandasWork-checkpoint.ipynb)
 ##### [52. Assigning value to new column](https://github.com/Muhammad-Usama-07/Data-Science-Journey/blob/8eded8388a5c3b8e8cfebed800a790f96e9bfafe/.ipynb_checkpoints/PandasWork-checkpoint.ipynb)
 ##### [53. Assigning value to dataframe using Series](https://github.com/Muhammad-Usama-07/Data-Science-Journey/blob/67aba85a556f9777051c94f665b1d3db93895abe/.ipynb_checkpoints/PandasWork-checkpoint.ipynb)
 ##### [54. Adding new column with boolean value](https://github.com/Muhammad-Usama-07/Data-Science-Journey/blob/d1a11daf428bbf9e81c0cc47ca062eda6ec29a98/.ipynb_checkpoints/PandasWork-checkpoint.ipynb)
