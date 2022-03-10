@@ -67,10 +67,10 @@ Libraries covered so far..
 40. Missing Data in Series
 41. Check if series has null values
 42. Check if series has not null values(return true)
-43. The pandas DataFrame Object
-44. Creating a DataFrame from scratch
-45. Create a DataFrame for a list of Series objects
-46. Create a DataFrame with two Series objects in dictionary
+##### [43. The pandas DataFrame Object](https://github.com/Muhammad-Usama-07/Data-Science-Journey/blob/f777322269cf34daf671dbe058366a137b2662ee/.ipynb_checkpoints/PandasWork-checkpoint.ipynb)
+##### [44. Creating a DataFrame from scratch](https://github.com/Muhammad-Usama-07/Data-Science-Journey/blob/fbb1aeac5483ea48c150ff8a143c26ee4a725ff0/.ipynb_checkpoints/PandasWork-checkpoint.ipynb)
+##### [45. Create a DataFrame for a list of Series objects](https://github.com/Muhammad-Usama-07/Data-Science-Journey/blob/9a71ec5f84e51318a1fe4bf0086eb77cd03b2553/.ipynb_checkpoints/PandasWork-checkpoint.ipynb)
+##### [46. Create a DataFrame with two Series objects in dictionary](https://github.com/Muhammad-Usama-07/Data-Science-Journey/blob/310bceea6e53f866176881696d94cc48fe8fd438/.ipynb_checkpoints/PandasWork-checkpoint.ipynb)
 ##### [47. Create a DataFrame with named columns and rows](https://github.com/Muhammad-Usama-07/Data-Science-Journey/blob/3813f244d16271cd05e0290292cf51df5e637a3a/.ipynb_checkpoints/PandasWork-checkpoint.ipynb)
 ##### [48. Demonstrate alignment during creation](https://github.com/Muhammad-Usama-07/Data-Science-Journey/blob/3813f244d16271cd05e0290292cf51df5e637a3a/.ipynb_checkpoints/PandasWork-checkpoint.ipynb)
 ##### [49. Creating data frames(using dictionary)](https://github.com/Muhammad-Usama-07/Data-Science-Journey/blob/20de00ba5c2676b18abc71705749b44813163355/.ipynb_checkpoints/PandasWork-checkpoint.ipynb)
