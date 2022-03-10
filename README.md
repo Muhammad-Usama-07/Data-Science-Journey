@@ -71,7 +71,7 @@ Libraries covered so far..
 44. Creating a DataFrame from scratch
 45. Create a DataFrame for a list of Series objects
 46. Create a DataFrame with two Series objects in dictionary
-47. Create a DataFrame with named columns and rows
+##### [47. Create a DataFrame with named columns and rows](https://github.com/Muhammad-Usama-07/Data-Science-Journey/blob/3813f244d16271cd05e0290292cf51df5e637a3a/.ipynb_checkpoints/PandasWork-checkpoint.ipynb)
 ##### [48. Demonstrate alignment during creation](https://github.com/Muhammad-Usama-07/Data-Science-Journey/blob/3813f244d16271cd05e0290292cf51df5e637a3a/.ipynb_checkpoints/PandasWork-checkpoint.ipynb)
 ##### [49. Creating data frames(using dictionary)](https://github.com/Muhammad-Usama-07/Data-Science-Journey/blob/20de00ba5c2676b18abc71705749b44813163355/.ipynb_checkpoints/PandasWork-checkpoint.ipynb)
 ##### [50. Accessing Each Column](https://github.com/Muhammad-Usama-07/Data-Science-Journey/blob/445ffbfb17b17e5381fbcc69ce7b1f5790576427/.ipynb_checkpoints/PandasWork-checkpoint.ipynb)
