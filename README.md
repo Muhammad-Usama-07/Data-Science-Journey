@@ -80,5 +80,5 @@ Libraries covered so far..
 53. Assigning value to dataframe using Series
 54. Adding new column with boolean value
 55. Deleting Column
-56. Adding data in the form of nested dictionary
+##### [56. Adding data in the form of nested dictionary](https://github.com/Muhammad-Usama-07/Data-Science-Journey/blob/7e22e666981fe907968cb9c5e3139ea0c1d1f752/.ipynb_checkpoints/PandasWork-checkpoint.ipynb)
 ##### [57. Making Row as column and column as row (Taking Transpose)](https://github.com/Muhammad-Usama-07/Data-Science-Journey/blob/86613dcd5ef320d69fcc5be36472b9163f744fab/.ipynb_checkpoints/PandasWork-checkpoint.ipynb)
