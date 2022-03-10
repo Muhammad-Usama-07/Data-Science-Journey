@@ -63,10 +63,10 @@ Libraries covered so far..
 36. fill with Some Value instead of NaN
 37. ForwardFill BackWordFill and nearest
 38. Slicing a Series
-39. first five by slicing, same as .head(5)
-40. Missing Data in Series
-41. Check if series has null values
-42. Check if series has not null values(return true)
+##### [39. first five by slicing, same as .head(5)](https://github.com/Muhammad-Usama-07/Data-Science-Journey/blob/70f49288e9c592b0704855a61213faa09310f484/.ipynb_checkpoints/PandasWork-checkpoint.ipynb)
+##### [40. Missing Data in Series](https://github.com/Muhammad-Usama-07/Data-Science-Journey/blob/d027fa6a1782edc81969d8300e803db818374a28/.ipynb_checkpoints/PandasWork-checkpoint.ipynb)
+##### [41. Check if series has null values](https://github.com/Muhammad-Usama-07/Data-Science-Journey/blob/b6f6eb9813717269d93454e26e5dcd2768d57440/.ipynb_checkpoints/PandasWork-checkpoint.ipynb)
+##### [42. Check if series has not null values(return true)](https://github.com/Muhammad-Usama-07/Data-Science-Journey/blob/5d1c930a1dc9c3ea7bb63804990b96af88c5b0d8/.ipynb_checkpoints/PandasWork-checkpoint.ipynb)
 ##### [43. The pandas DataFrame Object](https://github.com/Muhammad-Usama-07/Data-Science-Journey/blob/f777322269cf34daf671dbe058366a137b2662ee/.ipynb_checkpoints/PandasWork-checkpoint.ipynb)
 ##### [44. Creating a DataFrame from scratch](https://github.com/Muhammad-Usama-07/Data-Science-Journey/blob/fbb1aeac5483ea48c150ff8a143c26ee4a725ff0/.ipynb_checkpoints/PandasWork-checkpoint.ipynb)
 ##### [45. Create a DataFrame for a list of Series objects](https://github.com/Muhammad-Usama-07/Data-Science-Journey/blob/9a71ec5f84e51318a1fe4bf0086eb77cd03b2553/.ipynb_checkpoints/PandasWork-checkpoint.ipynb)
