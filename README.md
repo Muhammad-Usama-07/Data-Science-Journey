@@ -77,7 +77,7 @@ Libraries covered so far..
 50. Accessing Each Column
 51. Adding new column to old dataframe
 52. Assigning value to new column
-53. Assigning value to dataframe using Series
+##### [53. Assigning value to dataframe using Series](https://github.com/Muhammad-Usama-07/Data-Science-Journey/blob/67aba85a556f9777051c94f665b1d3db93895abe/.ipynb_checkpoints/PandasWork-checkpoint.ipynb)
 ##### [54. Adding new column with boolean value](https://github.com/Muhammad-Usama-07/Data-Science-Journey/blob/d1a11daf428bbf9e81c0cc47ca062eda6ec29a98/.ipynb_checkpoints/PandasWork-checkpoint.ipynb)
 ##### [55. Deleting Column](https://github.com/Muhammad-Usama-07/Data-Science-Journey/blob/326679c5204d7ab873a0e77a880202caeb80b9f9/.ipynb_checkpoints/PandasWork-checkpoint.ipynb)
 ##### [56. Adding data in the form of nested dictionary](https://github.com/Muhammad-Usama-07/Data-Science-Journey/blob/7e22e666981fe907968cb9c5e3139ea0c1d1f752/.ipynb_checkpoints/PandasWork-checkpoint.ipynb)
