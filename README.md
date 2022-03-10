@@ -59,10 +59,10 @@ Libraries covered so far..
 32. Concatinating Series
 33. Reset index(duplication of index may be remove)
 34. Using reindex() method to reindex
-35. Concatinating string and integar labels
-36. fill with Some Value instead of NaN
-37. ForwardFill BackWordFill and nearest
-38. Slicing a Series
+##### [35. Concatinating string and integar labels](https://github.com/Muhammad-Usama-07/Data-Science-Journey/blob/f735e5bbf6cdac7087ff4892cd63651f5f493f69/.ipynb_checkpoints/PandasWork-checkpoint.ipynb)
+##### [36. fill with Some Value instead of NaN](https://github.com/Muhammad-Usama-07/Data-Science-Journey/blob/e2a4bef5767410d0248514ce6e7fb1cc2ae4f2aa/.ipynb_checkpoints/PandasWork-checkpoint.ipynb)
+##### [37. ForwardFill BackWordFill and nearest](https://github.com/Muhammad-Usama-07/Data-Science-Journey/blob/642b8f2e9f9532f56eb5725fea6d0461c6fed39f/.ipynb_checkpoints/PandasWork-checkpoint.ipynb)
+##### [38. Slicing a Series](https://github.com/Muhammad-Usama-07/Data-Science-Journey/blob/abba83fcb4abc230f1f1ecbdadd47d148b09785a/.ipynb_checkpoints/PandasWork-checkpoint.ipynb)
 ##### [39. first five by slicing, same as .head(5)](https://github.com/Muhammad-Usama-07/Data-Science-Journey/blob/70f49288e9c592b0704855a61213faa09310f484/.ipynb_checkpoints/PandasWork-checkpoint.ipynb)
 ##### [40. Missing Data in Series](https://github.com/Muhammad-Usama-07/Data-Science-Journey/blob/d027fa6a1782edc81969d8300e803db818374a28/.ipynb_checkpoints/PandasWork-checkpoint.ipynb)
 ##### [41. Check if series has null values](https://github.com/Muhammad-Usama-07/Data-Science-Journey/blob/b6f6eb9813717269d93454e26e5dcd2768d57440/.ipynb_checkpoints/PandasWork-checkpoint.ipynb)
