@@ -47,7 +47,7 @@ Libraries covered so far..
 20. Handling(the case of Not-A-Number) with Series
 21. Series handle NaN values like NumPy
 22. ***Working Boolean Selection
-23. select rows where values are > 5
+##### [23. select rows where values are > 5](https://github.com/Muhammad-Usama-07/Data-Science-Journey/blob/82be42cd535146dc9dbd30800f13823f94a83d3c/.ipynb_checkpoints/PandasWork-checkpoint.ipynb)
 ##### [24. A little shorter version to Select](https://github.com/Muhammad-Usama-07/Data-Science-Journey/blob/180d971fa581000561561fee6ccac829be509a83/.ipynb_checkpoints/PandasWork-checkpoint.ipynb)
 ##### [25. Select specific range of rows from series](https://github.com/Muhammad-Usama-07/Data-Science-Journey/blob/8eb3d6cd200c865996c7ed8bb8ced74efda08eda/.ipynb_checkpoints/PandasWork-checkpoint.ipynb)
 ##### [26. Getting sum of values by giving boolean indexing](https://github.com/Muhammad-Usama-07/Data-Science-Journey/blob/d49ef1e6ab433abb98d97af896634a24b6c637a7/.ipynb_checkpoints/PandasWork-checkpoint.ipynb)
