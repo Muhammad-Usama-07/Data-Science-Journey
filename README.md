@@ -44,7 +44,7 @@ Libraries covered so far..
 17. Alignment via index labels
 18. Concatinate Series(Using Dictionary and extra item from another Series)
 19. Concatinating Series(if the series has duplicate index)
-20. Handling(the case of Not-A-Number) with Series
+##### [20. Handling(the case of Not-A-Number) with Series](https://github.com/Muhammad-Usama-07/Data-Science-Journey/blob/9516584774b1386a418330931cc09d2e433c883b/.ipynb_checkpoints/PandasWork-checkpoint.ipynb)
 ##### [21. Series handle NaN values like NumPy](https://github.com/Muhammad-Usama-07/Data-Science-Journey/blob/b48c124b9f87ebf4f25a08fa0fd1f88d393f4f25/.ipynb_checkpoints/PandasWork-checkpoint.ipynb)
 ##### [22. ***Working Boolean Selection](https://github.com/Muhammad-Usama-07/Data-Science-Journey/blob/b7e473573ad3cb255eb0a9c9dc115c2c97d4aac7/.ipynb_checkpoints/PandasWork-checkpoint.ipynb)
 ##### [23. select rows where values are > 5](https://github.com/Muhammad-Usama-07/Data-Science-Journey/blob/82be42cd535146dc9dbd30800f13823f94a83d3c/.ipynb_checkpoints/PandasWork-checkpoint.ipynb)
