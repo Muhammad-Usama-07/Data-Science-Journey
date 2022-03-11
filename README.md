@@ -35,7 +35,7 @@ Libraries covered so far..
 8. Creating Series from dict
 9. Creating Series from numpy array
 10. Checking Size, shape, uniqueness, and counts of values
-11. Peeking at data with heads, tails, and take
+##### [11. Peeking at data with heads, tails, and take](https://github.com/Muhammad-Usama-07/Data-Science-Journey/blob/595c910d9f1da93b44cdfc63d5f790153a39add3/.ipynb_checkpoints/PandasWork-checkpoint.ipynb)
 ##### [12. Lable lookup(get multiple item from Series)](https://github.com/Muhammad-Usama-07/Data-Science-Journey/blob/78bc830f2131941fa031157fc68acfbb4e0d72fc/.ipynb_checkpoints/PandasWork-checkpoint.ipynb)
 ##### [13. Position Bases lookup(get multiple item from Series)](https://github.com/Muhammad-Usama-07/Data-Science-Journey/blob/db7c6bed9e6fe59b2e2fe05a4d0721f8b5ee1068/.ipynb_checkpoints/PandasWork-checkpoint.ipynb)
 ##### [14. Series with an integer index, but not starting with 0](https://github.com/Muhammad-Usama-07/Data-Science-Journey/blob/9e712ab03ed9abb88ac69ea51cf03c5356b2f296/.ipynb_checkpoints/PandasWork-checkpoint.ipynb)
