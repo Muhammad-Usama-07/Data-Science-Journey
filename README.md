@@ -38,7 +38,7 @@ Libraries covered so far..
 11. Peeking at data with heads, tails, and take
 12. Lable lookup(get multiple item from Series)
 13. Position Bases lookup(get multiple item from Series)
-14. Series with an integer index, but not starting with 0
+##### [14. Series with an integer index, but not starting with 0](https://github.com/Muhammad-Usama-07/Data-Science-Journey/blob/9e712ab03ed9abb88ac69ea51cf03c5356b2f296/.ipynb_checkpoints/PandasWork-checkpoint.ipynb)
 ##### [15. label-based lookup versus position-based lookup](https://github.com/Muhammad-Usama-07/Data-Science-Journey/blob/121c842a6f9b223821f06414ccaed10e96a39aa8/.ipynb_checkpoints/PandasWork-checkpoint.ipynb)
 ##### [16. Using loc and iloc](https://github.com/Muhammad-Usama-07/Data-Science-Journey/blob/6c96eedfc00af15cd1619ce2fbc0769e44757d32/.ipynb_checkpoints/PandasWork-checkpoint.ipynb)
 ##### [17. Alignment via index labels](https://github.com/Muhammad-Usama-07/Data-Science-Journey/blob/b6caea8f8b041abda8fd46bed4548a27d6f95fbb/.ipynb_checkpoints/PandasWork-checkpoint.ipynb)
