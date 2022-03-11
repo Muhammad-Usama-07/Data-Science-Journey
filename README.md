@@ -27,7 +27,7 @@ Libraries covered so far..
 ### *Working with Series in Pandas
 1. Create one item Series
 2. Create a series of multiple items using a list
-3. getting the values in the Series
+##### [3. getting the values in the Series](https://github.com/Muhammad-Usama-07/Data-Science-Journey/blob/b80291925db792172bfeb7f1ffcc4f499f279196/.ipynb_checkpoints/PandasWork-checkpoint.ipynb)
 ##### [4. getting the index of the Series](https://github.com/Muhammad-Usama-07/Data-Science-Journey/blob/b80291925db792172bfeb7f1ffcc4f499f279196/.ipynb_checkpoints/PandasWork-checkpoint.ipynb)
 ##### [5. Explicitly Creating index(which are string but not integar)](https://github.com/Muhammad-Usama-07/Data-Science-Journey/blob/f6e79f3c15cb78e5df11134f579854031177908c/.ipynb_checkpoints/PandasWork-checkpoint.ipynb)
 ##### [6. Accesssing value by label, Accesssing value by integar](https://github.com/Muhammad-Usama-07/Data-Science-Journey/blob/f048fac799d63bc54fddf00023fd9f3f99c3cea7/.ipynb_checkpoints/PandasWork-checkpoint.ipynb)
