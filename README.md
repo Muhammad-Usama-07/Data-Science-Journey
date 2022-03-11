@@ -31,7 +31,7 @@ Libraries covered so far..
 4. getting the index of the Series
 5. Explicitly Creating index(which are string but not integar)
 6. Accesssing value by label, Accesssing value by integar
-7. Create Series from an existing index(scalar value with be copied at each index label)
+##### [7. Create Series from an existing index(scalar value with be copied at each index label)](https://github.com/Muhammad-Usama-07/Data-Science-Journey/blob/7e9c2465d62c766032d96b625e5fd444c1631649/.ipynb_checkpoints/PandasWork-checkpoint.ipynb)
 ##### [8. Creating Series from dict](https://github.com/Muhammad-Usama-07/Data-Science-Journey/blob/b8c7dac40ab979b4167a20c606226ec7817d279c/.ipynb_checkpoints/PandasWork-checkpoint.ipynb)
 ##### [9. Creating Series from numpy array](https://github.com/Muhammad-Usama-07/Data-Science-Journey/blob/cd06a365711cdd682b2cd8803564cc6c0af6de13/.ipynb_checkpoints/PandasWork-checkpoint.ipynb)
 ##### [10. Checking Size, shape, uniqueness, and counts of values](https://github.com/Muhammad-Usama-07/Data-Science-Journey/blob/d41d1e85b78dd3cf2e64b8a19e779f281cfe6dcf/.ipynb_checkpoints/PandasWork-checkpoint.ipynb)
