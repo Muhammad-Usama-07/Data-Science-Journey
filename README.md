@@ -41,7 +41,7 @@ Libraries covered so far..
 14. Series with an integer index, but not starting with 0
 15. label-based lookup versus position-based lookup
 16. Using loc and iloc
-17. Alignment via index labels
+##### [17. Alignment via index labels](https://github.com/Muhammad-Usama-07/Data-Science-Journey/blob/b6caea8f8b041abda8fd46bed4548a27d6f95fbb/.ipynb_checkpoints/PandasWork-checkpoint.ipynb)
 ##### [18. Concatinate Series(Using Dictionary and extra item from another Series)](https://github.com/Muhammad-Usama-07/Data-Science-Journey/blob/1e1f35031a1f7c30665428e80e664d669de80ebf/.ipynb_checkpoints/PandasWork-checkpoint.ipynb)
 ##### [19. Concatinating Series(if the series has duplicate index)](https://github.com/Muhammad-Usama-07/Data-Science-Journey/blob/91e4a1c55ea164a224f9051f2ef9aa488d74a42d/.ipynb_checkpoints/PandasWork-checkpoint.ipynb)
 ##### [20. Handling(the case of Not-A-Number) with Series](https://github.com/Muhammad-Usama-07/Data-Science-Journey/blob/9516584774b1386a418330931cc09d2e433c883b/.ipynb_checkpoints/PandasWork-checkpoint.ipynb)
