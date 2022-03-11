@@ -29,7 +29,7 @@ Libraries covered so far..
 2. Create a series of multiple items using a list
 3. getting the values in the Series
 4. getting the index of the Series
-5. Explicitly Creating index(which are string but not integar)
+##### [5. Explicitly Creating index(which are string but not integar)](https://github.com/Muhammad-Usama-07/Data-Science-Journey/blob/f6e79f3c15cb78e5df11134f579854031177908c/.ipynb_checkpoints/PandasWork-checkpoint.ipynb)
 ##### [6. Accesssing value by label, Accesssing value by integar](https://github.com/Muhammad-Usama-07/Data-Science-Journey/blob/f048fac799d63bc54fddf00023fd9f3f99c3cea7/.ipynb_checkpoints/PandasWork-checkpoint.ipynb)
 ##### [7. Create Series from an existing index(scalar value with be copied at each index label)](https://github.com/Muhammad-Usama-07/Data-Science-Journey/blob/7e9c2465d62c766032d96b625e5fd444c1631649/.ipynb_checkpoints/PandasWork-checkpoint.ipynb)
 ##### [8. Creating Series from dict](https://github.com/Muhammad-Usama-07/Data-Science-Journey/blob/b8c7dac40ab979b4167a20c606226ec7817d279c/.ipynb_checkpoints/PandasWork-checkpoint.ipynb)
