@@ -25,7 +25,7 @@ Libraries covered so far..
 10. Casting floating point into integer data type
 ## Pandas Topics
 ### *Working with Series in Pandas
-1. Create one item Series
+##### [1. Create one item Series](https://github.com/Muhammad-Usama-07/Data-Science-Journey/blob/bbe8009eb5b95a89381c8987dea16b80c2ff56e0/.ipynb_checkpoints/PandasWork-checkpoint.ipynb)
 ##### [2. Create a series of multiple items using a list](https://github.com/Muhammad-Usama-07/Data-Science-Journey/blob/27eff00a86f7f523aec2757562872433ace5534a/.ipynb_checkpoints/PandasWork-checkpoint.ipynb)
 ##### [3. getting the values in the Series](https://github.com/Muhammad-Usama-07/Data-Science-Journey/blob/b80291925db792172bfeb7f1ffcc4f499f279196/.ipynb_checkpoints/PandasWork-checkpoint.ipynb)
 ##### [4. getting the index of the Series](https://github.com/Muhammad-Usama-07/Data-Science-Journey/blob/b80291925db792172bfeb7f1ffcc4f499f279196/.ipynb_checkpoints/PandasWork-checkpoint.ipynb)
