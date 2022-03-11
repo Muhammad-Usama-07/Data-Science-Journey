@@ -33,7 +33,7 @@ Libraries covered so far..
 6. Accesssing value by label, Accesssing value by integar
 7. Create Series from an existing index(scalar value with be copied at each index label)
 8. Creating Series from dict
-9. Creating Series from numpy array
+##### [9. Creating Series from numpy array](https://github.com/Muhammad-Usama-07/Data-Science-Journey/blob/cd06a365711cdd682b2cd8803564cc6c0af6de13/.ipynb_checkpoints/PandasWork-checkpoint.ipynb)
 ##### [10. Checking Size, shape, uniqueness, and counts of values](https://github.com/Muhammad-Usama-07/Data-Science-Journey/blob/d41d1e85b78dd3cf2e64b8a19e779f281cfe6dcf/.ipynb_checkpoints/PandasWork-checkpoint.ipynb)
 ##### [11. Peeking at data with heads, tails, and take](https://github.com/Muhammad-Usama-07/Data-Science-Journey/blob/595c910d9f1da93b44cdfc63d5f790153a39add3/.ipynb_checkpoints/PandasWork-checkpoint.ipynb)
 ##### [12. Lable lookup(get multiple item from Series)](https://github.com/Muhammad-Usama-07/Data-Science-Journey/blob/78bc830f2131941fa031157fc68acfbb4e0d72fc/.ipynb_checkpoints/PandasWork-checkpoint.ipynb)
