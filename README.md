@@ -20,7 +20,7 @@ Libraries covered so far..
 ##### [5. finding the type of array, size of array, dimension, shape or array and dtype of elements](https://github.com/Muhammad-Usama-07/Data-Science-Journey/blob/417de40fe399b23c03b3884844dedc8f788611a4/.ipynb_checkpoints/NumericalPythonWork-checkpoint.ipynb)
 ##### [6. Increamenting by 2 from number 0 to 10](https://github.com/Muhammad-Usama-07/Data-Science-Journey/blob/349aa05fcc5c4cfbe5c68998905d06910cbe175e/.ipynb_checkpoints/NumericalPythonWork-checkpoint.ipynb)
 ##### [7. Reverse Counting](https://github.com/Muhammad-Usama-07/Data-Science-Journey/blob/8861d51d083e44822eefc164882cb60eb98c54eb/.ipynb_checkpoints/NumericalPythonWork-checkpoint.ipynb)
-8. Evenly spaced #'s between two intervals
+##### [8. Evenly spaced #'s between two intervals](https://github.com/Muhammad-Usama-07/Data-Science-Journey/blob/995b147274f6bc7d45205f1099b300fcc18c64f6/.ipynb_checkpoints/NumericalPythonWork-checkpoint.ipynb)
 9. Converting /Cast Data type of ndarray
 10. Casting floating point into integer data type
 ## Pandas Topics
