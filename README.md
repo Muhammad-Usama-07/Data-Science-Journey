@@ -16,7 +16,7 @@ Libraries covered so far..
 ##### [1. Creating NumPy arrays](https://github.com/Muhammad-Usama-07/Data-Science-Journey/blob/5af7344193b0afe4e34a1960b78f704c265d6e77/.ipynb_checkpoints/NumericalPythonWork-checkpoint.ipynb)
 2. Method 01 : A NumPy array can be created using multiple techniques. The following code creates a new NumPy array object from a Python list:
 ##### [3. Method 2: We can create a python range into numpyy array](https://github.com/Muhammad-Usama-07/Data-Science-Journey/blob/35d1ea777785d21d29d5219f2dfe8c7ab6063b59/.ipynb_checkpoints/NumericalPythonWork-checkpoint.ipynb)
-4. Method 03: Making "a range" starting at 0 and with 10 values np.arange(0, 10)
+##### [4. Method 03: Making "a range" starting at 0 and with 10 values np.arange(0, 10)](https://github.com/Muhammad-Usama-07/Data-Science-Journey/blob/08b47bee4e8d13fc95f47c239c57af253a8a0245/.ipynb_checkpoints/NumericalPythonWork-checkpoint.ipynb)
 ##### [5. finding the type of array, size of array, dimension, shape or array and dtype of elements](https://github.com/Muhammad-Usama-07/Data-Science-Journey/blob/417de40fe399b23c03b3884844dedc8f788611a4/.ipynb_checkpoints/NumericalPythonWork-checkpoint.ipynb)
 6. Increamenting by 2 from number 0 to 10
 7. Reverse Counting
