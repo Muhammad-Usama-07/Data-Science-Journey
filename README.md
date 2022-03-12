@@ -4,8 +4,8 @@ Libraries covered so far..
 2. Pandas
 
 ## Numpy Topics
-1. What is Numpy?
-2. What are the benefits of Numpy?
+##### [1. What is Numpy?](https://github.com/Muhammad-Usama-07/Data-Science-Journey/blob/68b5d851fcc149c0486de9509d0f049d1b87d21e/NumericalPythonWork.ipynb)
+##### [2. What are the benefits of Numpy?](https://github.com/Muhammad-Usama-07/Data-Science-Journey/blob/68b5d851fcc149c0486de9509d0f049d1b87d21e/NumericalPythonWork.ipynb)
 3. Why we need Numpy?
 4. What is Contiguous allocation in memory
 5. What is Boolean selection?
