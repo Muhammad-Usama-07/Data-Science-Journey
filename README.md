@@ -8,7 +8,7 @@ Libraries covered so far..
 ##### [2. What are the benefits of Numpy?](https://github.com/Muhammad-Usama-07/Data-Science-Journey/blob/68b5d851fcc149c0486de9509d0f049d1b87d21e/NumericalPythonWork.ipynb)
 ##### [3. Why we need Numpy?](https://github.com/Muhammad-Usama-07/Data-Science-Journey/blob/31e46ee508e969201605b6c633799fc6e4fb98fb/.ipynb_checkpoints/NumericalPythonWork-checkpoint.ipynb)
 ##### [4. What is Contiguous allocation in memory](https://github.com/Muhammad-Usama-07/Data-Science-Journey/blob/c2fddbcfccdf32ea3233808f4f80c669da545681/.ipynb_checkpoints/NumericalPythonWork-checkpoint.ipynb)
-5. What is Boolean selection?
+##### [5. What is Boolean selection?](https://github.com/Muhammad-Usama-07/Data-Science-Journey/blob/3f5fd4ae37f1ef1779f5ce8b4e5fda9745c765f1/.ipynb_checkpoints/NumericalPythonWork-checkpoint.ipynb)
 6. What is Sliceability?
 7. What is Vectorized operation?
 8. Example(to see the benefits of Contimuous Allocation of memory and Vectorize operation. The following example calculates the time required by the for loop in Python to square a list consisting of 100,000 sequential integers)
