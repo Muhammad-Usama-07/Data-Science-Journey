@@ -10,7 +10,7 @@ Libraries covered so far..
 ##### [4. What is Contiguous allocation in memory](https://github.com/Muhammad-Usama-07/Data-Science-Journey/blob/c2fddbcfccdf32ea3233808f4f80c669da545681/.ipynb_checkpoints/NumericalPythonWork-checkpoint.ipynb)
 ##### [5. What is Boolean selection?](https://github.com/Muhammad-Usama-07/Data-Science-Journey/blob/3f5fd4ae37f1ef1779f5ce8b4e5fda9745c765f1/.ipynb_checkpoints/NumericalPythonWork-checkpoint.ipynb)
 ##### [6. What is Sliceability?](https://github.com/Muhammad-Usama-07/Data-Science-Journey/blob/ee0cd05f9960d88f6a02cfb5661c88811554a45d/.ipynb_checkpoints/NumericalPythonWork-checkpoint.ipynb)
-7. What is Vectorized operation?
+##### [7. What is Vectorized operation?](https://github.com/Muhammad-Usama-07/Data-Science-Journey/blob/0f70ddb8428ba240e6bc1ac35c46e86d4d73498d/.ipynb_checkpoints/NumericalPythonWork-checkpoint.ipynb)
 8. Example(to see the benefits of Contimuous Allocation of memory and Vectorize operation. The following example calculates the time required by the for loop in Python to square a list consisting of 100,000 sequential integers)
 ### Operations in Numpy:
 ##### [1. Creating NumPy arrays](https://github.com/Muhammad-Usama-07/Data-Science-Journey/blob/5af7344193b0afe4e34a1960b78f704c265d6e77/.ipynb_checkpoints/NumericalPythonWork-checkpoint.ipynb)
