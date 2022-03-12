@@ -18,7 +18,7 @@ Libraries covered so far..
 ##### [3. Method 2: We can create a python range into numpyy array](https://github.com/Muhammad-Usama-07/Data-Science-Journey/blob/35d1ea777785d21d29d5219f2dfe8c7ab6063b59/.ipynb_checkpoints/NumericalPythonWork-checkpoint.ipynb)
 ##### [4. Method 03: Making "a range" starting at 0 and with 10 values np.arange(0, 10)](https://github.com/Muhammad-Usama-07/Data-Science-Journey/blob/08b47bee4e8d13fc95f47c239c57af253a8a0245/.ipynb_checkpoints/NumericalPythonWork-checkpoint.ipynb)
 ##### [5. finding the type of array, size of array, dimension, shape or array and dtype of elements](https://github.com/Muhammad-Usama-07/Data-Science-Journey/blob/417de40fe399b23c03b3884844dedc8f788611a4/.ipynb_checkpoints/NumericalPythonWork-checkpoint.ipynb)
-6. Increamenting by 2 from number 0 to 10
+##### [6. Increamenting by 2 from number 0 to 10](https://github.com/Muhammad-Usama-07/Data-Science-Journey/blob/349aa05fcc5c4cfbe5c68998905d06910cbe175e/.ipynb_checkpoints/NumericalPythonWork-checkpoint.ipynb)
 7. Reverse Counting
 8. Evenly spaced #'s between two intervals
 9. Converting /Cast Data type of ndarray
