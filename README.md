@@ -13,7 +13,7 @@ Libraries covered so far..
 7. What is Vectorized operation?
 8. Example(to see the benefits of Contimuous Allocation of memory and Vectorize operation. The following example calculates the time required by the for loop in Python to square a list consisting of 100,000 sequential integers)
 ### Operations in Numpy:
-1. Creating NumPy arrays
+##### [1. Creating NumPy arrays](https://github.com/Muhammad-Usama-07/Data-Science-Journey/blob/5af7344193b0afe4e34a1960b78f704c265d6e77/.ipynb_checkpoints/NumericalPythonWork-checkpoint.ipynb)
 2. Method 01 : A NumPy array can be created using multiple techniques. The following code creates a new NumPy array object from a Python list:
 3. Method 2: We can create a python range into numpyy array
 4. Method 03: Making "a range" starting at 0 and with 10 values np.arange(0, 10)
