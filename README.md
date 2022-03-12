@@ -22,7 +22,7 @@ Libraries covered so far..
 ##### [7. Reverse Counting](https://github.com/Muhammad-Usama-07/Data-Science-Journey/blob/8861d51d083e44822eefc164882cb60eb98c54eb/.ipynb_checkpoints/NumericalPythonWork-checkpoint.ipynb)
 ##### [8. Evenly spaced #'s between two intervals](https://github.com/Muhammad-Usama-07/Data-Science-Journey/blob/995b147274f6bc7d45205f1099b300fcc18c64f6/.ipynb_checkpoints/NumericalPythonWork-checkpoint.ipynb)
 ##### [9. Converting /Cast Data type of ndarray](https://github.com/Muhammad-Usama-07/Data-Science-Journey/blob/490553d0043825c139e06800d9a67e7dc45bbc69/.ipynb_checkpoints/NumericalPythonWork-checkpoint.ipynb)
-10. Casting floating point into integer data type
+##### [10. Casting floating point into integer data type](https://github.com/Muhammad-Usama-07/Data-Science-Journey/blob/a036126b77c14690c85181184f48724e361442eb/.ipynb_checkpoints/NumericalPythonWork-checkpoint.ipynb)
 ## Pandas Topics
 ### *Working with Series in Pandas
 ##### [1. Create one item Series](https://github.com/Muhammad-Usama-07/Data-Science-Journey/blob/bbe8009eb5b95a89381c8987dea16b80c2ff56e0/.ipynb_checkpoints/PandasWork-checkpoint.ipynb)
