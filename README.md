@@ -17,7 +17,7 @@ Libraries covered so far..
 2. Method 01 : A NumPy array can be created using multiple techniques. The following code creates a new NumPy array object from a Python list:
 3. Method 2: We can create a python range into numpyy array
 4. Method 03: Making "a range" starting at 0 and with 10 values np.arange(0, 10)
-5. finding the type of array, size of array, dimension, shape or array and dtype of elements
+##### [5. finding the type of array, size of array, dimension, shape or array and dtype of elements](https://github.com/Muhammad-Usama-07/Data-Science-Journey/blob/417de40fe399b23c03b3884844dedc8f788611a4/.ipynb_checkpoints/NumericalPythonWork-checkpoint.ipynb)
 6. Increamenting by 2 from number 0 to 10
 7. Reverse Counting
 8. Evenly spaced #'s between two intervals
