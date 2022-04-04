@@ -1,7 +1,7 @@
 # Data-Science-Journey
 Libraries covered so far..
 1. Numpy [here](https://github.com/Muhammad-Usama-07/Data-Science-Journey/blob/main/NumericalPythonWork.ipynb)
-2. Pandas
+2. Pandas [here](https://github.com/Muhammad-Usama-07/Data-Science-Journey/blob/main/PandasWork.ipynb)
 
 ## Numpy Topics
 ##### [1. What is Numpy?](https://github.com/Muhammad-Usama-07/Data-Science-Journey/blob/68b5d851fcc149c0486de9509d0f049d1b87d21e/NumericalPythonWork.ipynb)
