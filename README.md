@@ -1,6 +1,8 @@
 # Data-Science-Journey
 
-### ![](https://user-images.githubusercontent.com/51862131/210943125-4a36b8c1-d7c2-48a4-a43e-5b90e6050d76.png = 150x150) Big Data Analytics Work [here](https://github.com/Muhammad-Usama-07/Data-Science-Journey/tree/main/Big_Data_analytics)
+### Big Data Analytics Work [here](https://github.com/Muhammad-Usama-07/Data-Science-Journey/tree/main/Big_Data_analytics)
+
+### Tools and Techniques [here](https://github.com/Muhammad-Usama-07/Data-Science-Journey/tree/main/Tools_%26_Techniques_for_DataScientist)
 
 Libraries covered so far..
 1. Numpy [here](https://github.com/Muhammad-Usama-07/Data-Science-Journey/tree/main/NumericalPython)
