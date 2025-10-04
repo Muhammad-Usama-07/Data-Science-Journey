@@ -12,3 +12,4 @@
 ### Techniques 
 
 - EDA
+- Data augmentation 
