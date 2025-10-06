@@ -12,4 +12,5 @@
 ### Techniques 
 
 - EDA
-- Data augmentation 
+- Data augmentation
+- Imputation 
