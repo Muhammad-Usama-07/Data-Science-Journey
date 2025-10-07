@@ -13,4 +13,5 @@
 
 - EDA
 - Data augmentation
-- Imputation 
+- Imputation
+- Scaling
