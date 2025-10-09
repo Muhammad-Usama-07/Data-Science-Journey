@@ -15,3 +15,5 @@
 - Data augmentation
 - Imputation
 - Scaling
+- Parameters finding
+- 
