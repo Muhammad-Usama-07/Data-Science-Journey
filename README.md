@@ -17,3 +17,6 @@
 - Scaling
 - Parameters finding
 - 
+
+### Problems 
+- class imbalance 
