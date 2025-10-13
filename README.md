@@ -19,4 +19,5 @@
 - 
 
 ### Problems 
-- class imbalance 
+- class imbalance
+- low data size
