@@ -21,3 +21,4 @@
 ### Problems 
 - class imbalance
 - low data size
+- Inappropriate data
