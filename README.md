@@ -16,7 +16,7 @@
 - Imputation
 - Scaling
 - Parameters finding
-- 
+- social data analysis 
 
 ### Problems 
 - class imbalance
