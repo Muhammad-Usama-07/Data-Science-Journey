@@ -16,7 +16,8 @@
 - Imputation
 - Scaling
 - Parameters finding
-- social data analysis 
+- social data analysis
+- gathering insights 
 
 ### Problems 
 - class imbalance
