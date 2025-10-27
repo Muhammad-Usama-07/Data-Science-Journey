@@ -17,7 +17,8 @@
 - Scaling
 - Parameters finding
 - social data analysis
-- gathering insights 
+- gathering insights
+- prediction 
 
 ### Problems 
 - class imbalance
