@@ -19,6 +19,7 @@
 - social data analysis
 - gathering insights
 - prediction 
+- Segmentation 
 
 ### Problems 
 - class imbalance
